@@ -16,6 +16,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Vikrant-kun&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 ---
+[![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/Vikrant)
+
+---
 [![](https://visitcount.itsvg.in/api?id=Vikrant-kun&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
