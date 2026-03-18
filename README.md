@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I'm currently working on: DevFlow AI — an AI-powered dev workflow automation tool that scans your GitHub repos, fixes bugs, commits, and sends conditional alerts. All from plain English.<br>👯 I'm looking to collaborate on: AI-driven developer tools, automation pipelines, or anything that makes repetitive dev work disappear.<br>🤝 I'm looking for help with: Backend scaling and making AI agents more reliable in production.<br>🌱 I'm currently learning: Advanced workflow orchestration, conditional graph execution, and how to make LLMs do exactly what you tell them to (harder than it sounds).<br>💬 Ask me about: React, FastAPI, Supabase, Groq, or why conditional branching in AI pipelines will humble you.<br>⚡ Fun fact: I spent 3 days debugging an email routing bug — turns out the fix was changing queue.pop(0) to stack.pop(). One character. Three days.
+💫 About Me:
+🔭 I’m currently: Finishing my final year BSc in Computer Science in Mumbai, while building out full-stack web apps and experimenting with AI workflows.
+
+🌱 I’m currently learning: The finer points of scaling FastAPI backends, advanced React patterns, and trying to master clean UI/UX without losing my mind in CSS.
+
+🌍 Next stop: Actively looking for full-stack and AI engineering opportunities in Germany and across Europe.
+
+🤝 I’m looking to collaborate on: Cool open-source tools, automation scripts, or anything that involves writing solid Python and JavaScript.
+
+⚡ Outside of code: You'll probably find me hitting the gym and meticulously tracking my macros, catching up on the latest Manhwa, or trying to convince my indie cat to stop walking across my keyboard.
+
+💬 Ask me about: React, FastAPI, building state machines, or how to properly meal prep for the week.
 
 
 ## 🌐 Socials:
