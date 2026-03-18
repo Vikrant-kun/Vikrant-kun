@@ -1,4 +1,5 @@
 💫 About Me:
+
 🔭 I’m currently: Finishing my final year BSc in Computer Science in Mumbai, while building out full-stack web apps and experimenting with AI workflows.
 
 🌱 I’m currently learning: The finer points of scaling FastAPI backends, advanced React patterns, and trying to master clean UI/UX without losing my mind in CSS.
