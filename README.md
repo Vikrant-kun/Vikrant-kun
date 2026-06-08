@@ -1,31 +1,64 @@
-💫 About Me:
+# Hi, I'm Vikrant Vinchurkar 👋
+### Full-Stack & Systems Engineer | Specialized in High-Performance Backends
 
-🔭 I’m currently: Finishing my final year BSc in Computer Science in Mumbai, while building out full-stack web apps and experimenting with AI workflows.
+<p align="left">
+  <a href="https://linkedin.com/in/vikrant-vinchurkar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
 
-🌱 I’m currently learning: The finer points of scaling FastAPI backends, advanced React patterns, and trying to master clean UI/UX without losing my mind in CSS.
+A results-driven Computer Science specialist focused on building low-latency backend architectures, concurrent systems, and scalable full-stack pipelines. Adept at bridging technical complexity with clean execution, from database indexing to responsive user interfaces.
 
-🌍 Next stop: Actively looking for full-stack and AI engineering opportunities in Germany and across Europe.
-
-🤝 I’m looking to collaborate on: Cool open-source tools, automation scripts, or anything that involves writing solid Python and JavaScript.
-
-⚡ Outside of code: You'll probably find me hitting the gym and meticulously tracking my macros, catching up on the latest Manhwa, or trying to convince my indie cat to stop walking across my keyboard.
-
-💬 Ask me about: React, FastAPI, building state machines, or how to properly meal prep for the week.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/justt_vid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vikrant Vinchurkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikrantvinchurkar12@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vikrant-kun&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vikrant-kun&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikrant-kun&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vikrant-kun&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 ---
-[![](https://visitcount.itsvg.in/api?id=Vikrant-kun&icon=2&color=0)](https://visitcount.itsvg.in)
 
+## 🛠️ Technical Ecosystem
 
+### Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+</p>
+
+### Databases & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+---
+
+## 📈 Professional Focus & Objectives
+
+* **Current Initiatives:** Architecting high-throughput backend services using **Go**, optimizing relational databases via **PostgreSQL**, and implementing memory-efficient caching systems using **Redis**.
+* **Target Domain:** Actively seeking Full-Stack, Backend, and Systems Engineering opportunities within fast-paced tech startups and enterprise teams globally, with a long-term focus on the European technology ecosystem.
+* **Core Expertise:** Building event-driven microservices, handling high-concurrency workloads, designing structured API middleware, and implementing real-time communications (WebSockets).
+
+---
+
+## 📊 Dynamic Engineering Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Vikrant's GitHub Stats" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="195px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" width="100%"/>
+</p>
+
+### 🔝 Primary Repository Architecture
+<!-- Replace 'YOUR_GITHUB_USERNAME/YOUR_REPO_NAME' with your actual target repo -->
+<p align="left">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME&theme=tokyonight" alt="Pinned Repo"/>
+  </a>
+</p>
