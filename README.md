@@ -35,12 +35,11 @@ A results-driven Computer Science specialist focused on building low-latency bac
 
 ---
 
-### System Deployment Status
+### 📡 Active System Footprint
 
 <p align="left">
-  <a href="https://github.com/Vikrant-kun/DevFlow_AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikrant-kun&repo=DevFlow-AI&theme=tokyonight&show_owner=false" alt="DevFlow AI Deployment"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikrant-kun&theme=tokyonight&layout=compact&hide_border=true&langs_count=5" alt="Language Architecture Distribution" />
+</p>
 
 ---
 
@@ -78,7 +77,7 @@ When the IDE is closed, my routine focuses on high-discipline operations that di
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vikrant-kun&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-bg=true&no-border=true" alt="System Achievements" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vikrant-kun&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" width="400px" alt="Core Performance Metrics" />
 
 <br/>
 
