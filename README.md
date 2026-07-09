@@ -1,22 +1,22 @@
-# Hi, I'm Vikrant Vinchurkar 👋
-### Full-Stack & Systems Engineer | Specialized in High-Performance Backends
+Hi, I'm Vikrant Vinchurkar 👋
+
+Full-Stack & Systems Engineer | Specialized in High-Performance Backends
 
 <p align="left">
   <a href="https://linkedin.com/in/vikrant-vinchurkar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/Vikrant-kun" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </p>
-
 A results-driven Computer Science specialist focused on building low-latency backend architectures, concurrent systems, and scalable full-stack pipelines. Adept at bridging technical complexity with clean execution, from database indexing to responsive user interfaces.
-
 ---
 
-## 🛠️ Technical Ecosystem
+🛠️ Technical Ecosystem
 
-### Languages & Frameworks
+Languages & Frameworks
+
 <p align="left">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -25,8 +25,8 @@ A results-driven Computer Science specialist focused on building low-latency bac
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </p>
+Databases & Infrastructure
 
-### Databases & Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
@@ -36,11 +36,12 @@ A results-driven Computer Science specialist focused on building low-latency bac
 
 ---
 
-## 📈 Professional Focus & Objectives
+📈 Professional Focus & Objectives
 
-* **Current Initiatives:** Architecting high-throughput backend services using **Go**, optimizing relational databases via **PostgreSQL**, and implementing memory-efficient caching systems using **Redis**.
-* **Target Domain:** Actively seeking Full-Stack, Backend, and Systems Engineering opportunities within fast-paced tech startups and enterprise teams globally, with a long-term focus on the European technology ecosystem.
-* **Core Expertise:** Building event-driven microservices, handling high-concurrency workloads, designing structured API middleware, and implementing real-time communications (WebSockets).
+
+Current Initiatives: Architecting high-throughput backend services using Go, optimizing relational databases via PostgreSQL, and implementing memory-efficient caching systems using Redis.
+Target Domain: Actively seeking Full-Stack, Backend, and Systems Engineering opportunities within fast-paced tech startups and enterprise teams globally, with a long-term focus on the European technology ecosystem.
+Core Expertise: Building event-driven microservices, handling high-concurrency workloads, designing structured API middleware, and implementing real-time communications (WebSockets).
 
 ---
 
@@ -55,6 +56,6 @@ A results-driven Computer Science specialist focused on building low-latency bac
 <!-- Replace 'YOUR_GITHUB_USERNAME/YOUR_REPO_NAME' with your actual target repo -->
 <p align="left">
   <a href="https://github.com/Vikrant-kun/Vikrant-kun">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Vikrant-kun&theme=tokyonight" alt="Pinned Repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikrant-kun&repo=Vikrant-kun&theme=tokyonight" alt="Pinned Repo"/>
   </a>
 </p>
