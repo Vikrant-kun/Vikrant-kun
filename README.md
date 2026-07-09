@@ -44,21 +44,17 @@ A results-driven Computer Science specialist focused on building low-latency bac
 
 ---
 
-## 📊 Dynamic Engineering Metrics
+## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Vikrant's GitHub Stats" height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="195px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Vikrant-kun/Vikrant-kun/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Vikrant-kun/Vikrant-kun/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake animation" width="100%"/>
 </p>
 
 ### 🔝 Primary Repository Architecture
 <!-- Replace 'YOUR_GITHUB_USERNAME/YOUR_REPO_NAME' with your actual target repo -->
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME&theme=tokyonight" alt="Pinned Repo"/>
+  <a href="https://github.com/Vikrant-kun/Vikrant-kun">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Vikrant-kun&theme=tokyonight" alt="Pinned Repo"/>
   </a>
 </p>
