@@ -77,11 +77,35 @@ A results-driven Computer Science specialist focused on building low-latency bac
 
 ### 📡 Active System Footprint
 
-| Subsystem | Core Technologies | Focus / Implementation |
-| :--- | :--- | :--- |
-| **Backend & Runtime** | `Go` / `Node.js` / `Python` | High-throughput architectures, event-driven loops |
-| **Storage & Caching** | `PostgreSQL` / `Redis` / `Supabase` | Relational optimization, memory-efficient states |
-| **Infrastructure & Ops** | `Docker` / `GitHub Actions` | Containerized microservices, automated pipelines |
+<div align="center">
+<table>
+  <tr>
+    <td width="180"><b>Backend &amp; Runtime</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Go-141321?style=flat-square&logo=go&logoColor=00ADD8" alt="Go"/>
+      <img src="https://img.shields.io/badge/Python-141321?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+    </td>
+    <td><i>High-throughput architectures, event-driven execution</i></td>
+  </tr>
+  <tr>
+    <td><b>Storage &amp; Caching</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-141321?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Redis-141321?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis"/>
+      <img src="https://img.shields.io/badge/Supabase-141321?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase"/>
+    </td>
+    <td><i>Relational optimization, memory-efficient state</i></td>
+  </tr>
+  <tr>
+    <td><b>Infrastructure &amp; Ops</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-141321?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-141321?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
+    </td>
+    <td><i>Containerized services, automated pipelines</i></td>
+  </tr>
+</table>
+</div>
 
 ---
 
