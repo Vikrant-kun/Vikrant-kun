@@ -35,7 +35,7 @@ A results-driven Computer Science specialist focused on building low-latency bac
 
 ---
 
-### 📡 System Deployment Status
+### System Deployment Status
 
 <p align="left">
   <a href="https://github.com/Vikrant-kun/DevFlow-AI">
@@ -70,12 +70,6 @@ When the IDE is closed, my routine focuses on high-discipline operations that di
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikrant-kun&theme=tokyonight&hide_border=true&background=0D1117" alt="Execution Streak" width="100%"/>
-</p>
-
----
-
 ### System Execution Metrics
 
 <div align="center">
@@ -84,7 +78,7 @@ When the IDE is closed, my routine focuses on high-discipline operations that di
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikrant-kun&theme=tokyonight&hide_border=true&background=0D1117" alt="Execution Streak" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=Vikrant-kun&theme=tokyonight&hide_border=true&background=0D1117" alt="Execution Streak" width="100%"/>
 
 <br/>
 
@@ -95,7 +89,7 @@ When the IDE is closed, my routine focuses on high-discipline operations that di
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/Vikrant-kun/Vikrant-kun/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="175px" alt="Most active language"/></td>
-    <td><img src="https://raw.githubusercontent.com/Vikrant-kun/Vikrant-kun/main/profile-summary-card-output/tokyonight/4-commits-per-month.svg" height="175px" alt="Commits per month"/></td>
+    <td><img src="https://raw.githubusercontent.com/Vikrant-kun/Vikrant-kun/main/profile-summary-card-output/tokyonight/4-commit-number-per-month.svg" height="175px" alt="Commits per month"/></td>
   </tr>
 </table>
 
