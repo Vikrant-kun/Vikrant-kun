@@ -23,4 +23,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: output-stats
+          BRANCH_NAME: main
+          AUTO_PUSH: false # Prevents the broken internal push logic
+
+      - name: Commit and Push Changes Manually
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -m "Update profile summary cards" && git push)
