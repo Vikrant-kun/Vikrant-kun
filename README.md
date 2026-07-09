@@ -78,7 +78,7 @@ When the IDE is closed, my routine focuses on high-discipline operations that di
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Vikrant-kun&theme=tokyonight" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Vikrant-kun"/>
 
 <br/>
 
