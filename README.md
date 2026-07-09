@@ -78,7 +78,7 @@ When the IDE is closed, my routine focuses on high-discipline operations that di
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Vikrant-kun"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vikrant-kun&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-bg=true&no-border=true" alt="System Achievements" />
 
 <br/>
 
