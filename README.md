@@ -27,35 +27,52 @@ A results-driven Computer Science specialist focused on building low-latency bac
 
 ---
 
-Technical Ecosystem
+### Architecture & Technical Systems
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:0F0C29&height=2&section=header" width="100%"/>
 <table>
-  <tr>
-    <td align="right" width="160"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=go,js,py,cs&theme=dark" alt="Go, JavaScript, Python, C#"/></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"/></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go"/></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Databases &amp; Cache</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,redis,supabase&theme=dark" alt="PostgreSQL, Redis, Supabase"/></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Infrastructure</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/></td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left" width="20%">Layer</th>
+      <th align="left" width="35%">Ecosystem Nodes</th>
+      <th align="left" width="45%">Structural Domain</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Systems & Backend</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+      </td>
+      <td>Concurrent execution routines, low-latency microservices, algorithmic pipelines.</td>
+    </tr>
+    <tr>
+      <td><b>Data Engine</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+      </td>
+      <td>Relational schema optimization, indexing operations, high-speed memory caching layers.</td>
+    </tr>
+    <tr>
+      <td><b>Interfaces & Logic</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+      </td>
+      <td>Component architectures, reactive client state handling, clean interface lifecycles.</td>
+    </tr>
+    <tr>
+      <td><b>Infrastructure</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      </td>
+      <td>Containerization virtualization layers, pipeline consistency, decoupled deployments.</td>
+    </tr>
+  </tbody>
 </table>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:0F0C29&height=2&section=header" width="100%"/>
-</div>
-
 ---
 
 ### 📡 Active System Footprint
