@@ -53,3 +53,18 @@ Core Expertise: Building event-driven microservices, handling high-concurrency w
   <img src="https://raw.githubusercontent.com/Vikrant-kun/Vikrant-kun/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake animation" width="100%"/>
 </p>
 
+## 📊 System Execution Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vikrant-kun/Vikrant-kun/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="System Overview" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vikrant-kun/Vikrant-kun/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="180px" alt="Language Demographics" />
+  <img src="https://raw.githubusercontent.com/Vikrant-kun/Vikrant-kun/main/profile-summary-card-output/tokyonight/3-stats.svg" height="180px" alt="Commit Statistics" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vikrant-kun/Vikrant-kun/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="180px" alt="Execution Frequency" />
+  <img src="https://raw.githubusercontent.com/Vikrant-kun/Vikrant-kun/main/profile-summary-card-output/tokyonight/4-commit-number-per-month.svg" height="180px" alt="System Load Over Time" />
+</p>
