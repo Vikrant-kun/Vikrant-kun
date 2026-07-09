@@ -11,6 +11,7 @@ Full-Stack & Systems Engineer | Specialized in High-Performance Backends
   </a>
 </p>
 A results-driven Computer Science specialist focused on building low-latency backend architectures, concurrent systems, and scalable full-stack pipelines. Adept at bridging technical complexity with clean execution, from database indexing to responsive user interfaces.
+
 ---
 
 🛠️ Technical Ecosystem
@@ -52,10 +53,3 @@ Core Expertise: Building event-driven microservices, handling high-concurrency w
   <img src="https://raw.githubusercontent.com/Vikrant-kun/Vikrant-kun/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake animation" width="100%"/>
 </p>
 
-### 🔝 Primary Repository Architecture
-<!-- Replace 'YOUR_GITHUB_USERNAME/YOUR_REPO_NAME' with your actual target repo -->
-<p align="left">
-  <a href="https://github.com/Vikrant-kun/Vikrant-kun">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikrant-kun&repo=Vikrant-kun&theme=tokyonight" alt="Pinned Repo"/>
-  </a>
-</p>
