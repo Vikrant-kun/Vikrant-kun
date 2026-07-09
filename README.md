@@ -43,7 +43,6 @@ A results-driven Computer Science specialist focused on building low-latency bac
       <td>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
       </td>
       <td>Concurrent execution routines, low-latency microservices, algorithmic pipelines.</td>
     </tr>
