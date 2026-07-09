@@ -27,19 +27,44 @@ A results-driven Computer Science specialist focused on building low-latency bac
 
 ---
 
-### Technical Ecosystem
+Technical Ecosystem
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,nodejs,react,py,cs,supabase&theme=dark" alt="Tech stack icons"/>
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:0F0C29&height=2&section=header" width="100%"/>
+<table>
+  <tr>
+    <td align="right" width="160"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=go,js,py,cs&theme=dark" alt="Go, JavaScript, Python, C#"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Databases &amp; Cache</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,redis,supabase&theme=dark" alt="PostgreSQL, Redis, Supabase"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Infrastructure</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/></td>
+  </tr>
+</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:0F0C29&height=2&section=header" width="100%"/>
+</div>
 
 ---
 
 ### 📡 Active System Footprint
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikrant-kun&theme=tokyonight&layout=compact&hide_border=true&langs_count=5" alt="Language Architecture Distribution" />
-</p>
+| Subsystem | Core Technologies | Focus / Implementation |
+| :--- | :--- | :--- |
+| **Backend & Runtime** | `Go` / `Node.js` / `Python` | High-throughput architectures, event-driven loops |
+| **Storage & Caching** | `PostgreSQL` / `Redis` / `Supabase` | Relational optimization, memory-efficient states |
+| **Infrastructure & Ops** | `Docker` / `GitHub Actions` | Containerized microservices, automated pipelines |
 
 ---
 
@@ -74,12 +99,6 @@ When the IDE is closed, my routine focuses on high-discipline operations that di
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Vikrant-kun/Vikrant-kun/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile overview"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vikrant-kun&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" width="400px" alt="Core Performance Metrics" />
-
-<br/>
 
 <table>
   <tr>
