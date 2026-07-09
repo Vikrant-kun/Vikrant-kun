@@ -2,7 +2,7 @@ name: Update Dynamic Profile Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -12,7 +12,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Grants the token permission to push commits
+      contents: write
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
@@ -23,4 +23,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: output-stats # Fixed input parameter name
+          BRANCH_NAME: output-stats
